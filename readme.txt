@@ -1,2 +1,3 @@
-Git is a version control system.
-Git is free software.
+this is a stripes demo
+
+you can base on this demo to create more complex project 
